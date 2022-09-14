@@ -315,7 +315,9 @@ body.dark-theme {
   position: relative;
   border-radius: 1rem;
   overflow: hidden;
+  height: 250px;
 }
+a{}
 
 .projects__card img {
   width: 100%;
