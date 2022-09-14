@@ -356,6 +356,9 @@ a{}
 .projects__button {
   padding: .5rem;
 }
+.projects__button.button.button__small {
+  cursor: pointer;
+}
 
 .projects__card:hover .projects__modal {
   bottom: 0;
